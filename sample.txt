@@ -4,3 +4,4 @@ Registration number: 23BRS1295
 New line from new branch
 
 3rd line from Master branch
+third line from conflict_branch
