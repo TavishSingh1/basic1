@@ -5,3 +5,4 @@ New line from new branch
 
 3rd line from Master branch
 third line from conflict_branch
+new line from VS Code
